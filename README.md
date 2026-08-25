@@ -15,7 +15,6 @@ navegador, offline inclusive.
 - Filtros por trilha: produção interna, marketing e entregas para inscritos
 - Detalhe de cada item no hover
 - Inventário de entregas contado a partir do próprio calendário
-- Pontos que ainda precisam de decisão
 
 `Ctrl+P` gera um PDF em A4 deitado, com o layout forçado para fundo claro.
 
